@@ -1,0 +1,16 @@
+body, html {
+    background-color: #ffff;
+    font-family: "Playfair Display", serif;
+    overflow-x: hidden !important;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+*{
+    text-decoration: none !important;
+}
+
+.nav {
+    position: fixed;
+    z-index: 1000;
+}
